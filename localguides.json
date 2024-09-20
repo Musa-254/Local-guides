@@ -1,0 +1,205 @@
+[
+    {
+        "name": "Emmaculate Rehema",
+        "experience": "12 years of experience",
+        "description": "Professional diver offering guided scuba diving experiences.",
+        "price": "$60 per hour",
+        "image": "https://via.placeholder.com/100"
+    },
+    {
+        "name": "Ana Masha",
+        "experience": "9 years of experience",
+        "description": "Marine biologist offering eco-friendly marine tours.",
+        "price": "$55 per hour",
+        "image": "https://via.placeholder.com/100"
+    },
+    {
+        "name": "David Chondo",
+        "experience": "15 years of experience",
+        "description": "Specializes in deep-sea fishing and snorkeling tours.",
+        "price": "$70 per hour",
+        "image": "https://via.placeholder.com/100"
+    },
+    {
+        "name": "Linda Moses",
+        "experience": "7 years of experience",
+        "description": "Nature enthusiast offering kayak and paddle board tours.",
+        "price": "$40 per hour",
+        "image": "https://via.placeholder.com/100"
+    },
+    {
+        "name": "Mohammed Ali",
+        "experience": "20 years of experience",
+        "description": "Expert fisherman offering guided fishing trips.",
+        "price": "$65 per hour",
+        "image": "https://via.placeholder.com/100"
+    },
+    {
+        "name": "Emily Davis",
+        "experience": "6 years of experience",
+        "description": "Underwater photographer offering guided photo tours.",
+        "price": "$50 per hour",
+        "image": "https://via.placeholder.com/100"
+    },
+    {
+        "name": "Chris Brown",
+        "experience": "14 years of experience",
+        "description": "Marine conservationist offering eco-tours with a focus on sustainability.",
+        "price": "$58 per hour",
+        "image": "https://via.placeholder.com/100"
+    },
+    {
+        "name": "Sophia Nucho",
+        "experience": "8 years of experience",
+        "description": "Kayaking expert with knowledge of coastal ecosystems.",
+        "price": "$48 per hour",
+        "image": "https://via.placeholder.com/100"
+    },
+    {
+        "name": "Musa Kalu",
+        "experience": "10 years of experience",
+        "description": "Specializes in wildlife observation tours and fishing trips.",
+        "price": "$52 per hour",
+        "image": "https://via.placeholder.com/100"
+    },
+    {
+        "name": "Isabella James",
+        "experience": "9 years of experience",
+        "description": "Scuba diving instructor with a focus on coral reef conservation.",
+        "price": "$60 per hour",
+        "image": "https://via.placeholder.com/100"
+    },
+    {
+        "name": "Peris Furaha",
+        "experience": "12 years of experience",
+        "description": "Experienced fisherman offering deep-sea fishing excursions.",
+        "price": "$65 per hour",
+        "image": "https://via.placeholder.com/100"
+    },
+    {
+        "name": "Olivia James",
+        "experience": "5 years of experience",
+        "description": "Environmental educator providing eco-friendly boat tours.",
+        "price": "$45 per hour",
+        "image": "https://via.placeholder.com/100"
+    },
+    {
+        "name": "Noah David",
+        "experience": "7 years of experience",
+        "description": "Sailing instructor offering private boat trips.",
+        "price": "$55 per hour",
+        "image": "https://via.placeholder.com/100"
+    },
+    {
+        "name": "Sabrina Kupe",
+        "experience": "11 years of experience",
+        "description": "Expert in marine biodiversity, offering guided wildlife tours.",
+        "price": "$62 per hour",
+        "image": "https://via.placeholder.com/100"
+    },
+    {
+        "name": "Elijah Edward",
+        "experience": "13 years of experience",
+        "description": "Fishing guide with extensive knowledge of local waters.",
+        "price": "$68 per hour",
+        "image": "https://via.placeholder.com/100"
+    },
+    {
+        "name": "Amelia John",
+        "experience": "4 years of experience",
+        "description": "Snorkeling guide offering eco-friendly underwater adventures.",
+        "price": "$42 per hour",
+        "image": "https://via.placeholder.com/100"
+    },
+    {
+        "name": "Masha Anderson",
+        "experience": "10 years of experience",
+        "description": "Local fisherman offering boat and shore fishing trips.",
+        "price": "$60 per hour",
+        "image": "https://via.placeholder.com/100"
+    },
+    {
+        "name": "Thomas Baya",
+        "experience": "9 years of experience",
+        "description": "Marine educator offering family-friendly eco-tours.",
+        "price": "$50 per hour",
+        "image": "https://via.placeholder.com/100"
+    },
+    {
+        "name": "James Simba",
+        "experience": "15 years of experience",
+        "description": "Expert sailor providing private sailing lessons and tours.",
+        "price": "$70 per hour",
+        "image": "https://via.placeholder.com/100"
+    },
+    {
+        "name": "Ella Baya",
+        "experience": "8 years of experience",
+        "description": "Wildlife expert offering guided bird-watching and marine life tours.",
+        "price": "$55 per hour",
+        "image": "https://via.placeholder.com/100"
+    },
+    {
+        "name": "Benjamin Musyoka",
+        "experience": "5 years of experience",
+        "description": "Snorkeling instructor with a focus on reef preservation.",
+        "price": "$50 per hour",
+        "image": "https://via.placeholder.com/100"
+    },
+    {
+        "name": "Nelson Karisa",
+        "experience": "7 years of experience",
+        "description": "Kayak guide offering tours through mangrove forests.",
+        "price": "$48 per hour",
+        "image": "https://via.placeholder.com/100"
+    },
+    {
+        "name": "Alexander Rama",
+        "experience": "10 years of experience",
+        "description": "Expert in coastal wildlife, offering educational eco-tours.",
+        "price": "$58 per hour",
+        "image": "https://via.placeholder.com/100"
+    },
+    {
+        "name": "Evans Shuku",
+        "experience": "6 years of experience",
+        "description": "Certified scuba diver providing underwater tours.",
+        "price": "$52 per hour",
+        "image": "https://via.placeholder.com/100"
+    },
+    {
+        "name": "William Bonaya",
+        "experience": "9 years of experience",
+        "description": "Sailing instructor and local fisherman offering private lessons.",
+        "price": "$62 per hour",
+        "image": "https://via.placeholder.com/100"
+    },
+    {
+        "name": "Evelyn Adams",
+        "experience": "5 years of experience",
+        "description": "Wildlife biologist offering guided tours of coastal habitats.",
+        "price": "$50 per hour",
+        "image": "https://via.placeholder.com/100"
+    },
+    {
+        "name": "Sebastian Lewa",
+        "experience": "14 years of experience",
+        "description": "Expert fisherman offering deep-sea fishing and island hopping tours.",
+        "price": "$65 per hour",
+        "image": "https://via.placeholder.com/100"
+    },
+    {
+        "name": "Grace Habel",
+        "experience": "7 years of experience",
+        "description": "Kayaking guide with expertise in wildlife observation.",
+        "price": "$48 per hour",
+        "image": "https://via.placeholder.com/100"
+    },
+    {
+        "name": "Henry Ian",
+        "experience": "12 years of experience",
+        "description": "Expert in marine biology, offering educational eco-tours.",
+        "price": "$60 per hour",
+        "image": "https://via.placeholder.com/100"
+    }
+      ]
